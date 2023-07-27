@@ -10,6 +10,6 @@
 				<property name="szoveg" value="Ez a szöveg"></property>
 				</bean>
 				<bean id="szambean" class="hu.pallas.Two">
-				<property name="szam" value="69420"></property>
+				<property name="szam" value="6920"></property>
 				</bean>
 				</beans>
